@@ -132,6 +132,7 @@ ul {
 	overflow: hidden;
 	display: -webkit-box;
 	-webkit-line-clamp: 2;
+  line-clamp: 2;
 	-webkit-box-orient: vertical;
 	width: calc(100% - 120px); /* Adjust this value as needed */
 }
